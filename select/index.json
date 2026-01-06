@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "id:entity voices",
+  "base_artist": "hololive Indonesia",
+  "createdAt": "2026-01-06T02:53:52.992254Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "id:entity voices",
+      "artist": "hololive Indonesia",
+      "has_synced": true,
+      "path": "select/01_id_entity_voices_hololive_Indonesia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "id:entity voices - Japanese ver.",
+      "artist": "hololive Indonesia",
+      "has_synced": true,
+      "path": "select/02_id_entity_voices_-_Japanese_ver._hololive_Indonesia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "id:entity voices (Japanese ver.)",
+      "artist": "hololive Indonesia",
+      "has_synced": true,
+      "path": "select/03_id_entity_voices_(Japanese_ver.)_hololive_Indonesia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "id:entity voices (Farhan Koplo ver.)",
+      "artist": "hololive Indonesia",
+      "has_synced": true,
+      "path": "select/04_id_entity_voices_(Farhan_Koplo_ver.)_hololive_Indonesia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "id:entity voices",
+      "artist": "hololive Indonesia",
+      "has_synced": false,
+      "path": "select/pl_01_id_entity_voices_hololive_Indonesia.txt"
+    }
+  ]
+}
